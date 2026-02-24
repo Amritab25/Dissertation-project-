@@ -46,7 +46,7 @@
   * Explain how fluorine substitution alters pharmacophore aromatic and hydrophobic regions
   * Examine fluorine substitution influence on pharmacophore H bond acceptor and aromatic centroid positions
 
-    ## Temperature Sensitivity Analysis
+ ## Temperature Sensitivity Analysis
     - Evaluates the effect of model temperature on scientific accuracy:
       * 0.1 = Highly accurate, deterministic, factual
       * 0.2 = Accurate with slight variability
@@ -54,7 +54,7 @@
       * <0.6 = Increased creativity but higher error rate
      - Demonstrates lower temperature settings provide the most reliable scientific outputs.
    
-   ## Technologies Used
+ ## Technologies Used
   - Python
   - RDKit
   - Hugging face Transformers
